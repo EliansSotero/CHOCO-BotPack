@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "resend",
 	version: "2.0.0",
 	hasPermssion: 1,
-	credits: "Thọ & Mod By DuyVuong",
+	credits: "𝙀𝙇.𝙄𝘼𝙉𝙎 𝙍𝙀𝙏𝙄𝙍𝙊 𝙎𝙊𝙏𝙀𝙍𝙊",
 	description: "Resends Messages",
   usePrefix: true,
 	commandCategory: "general", 
