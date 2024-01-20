@@ -2,7 +2,7 @@ module.exports.config = {
   name: "help",
   version: "1.0.2",
   hasPermission: 0,
-  credits: "Mirai Team & Mod by Yan Maglinte",
+  credits: "𝙀𝙇.𝙄𝘼𝙉𝙎 𝙍𝙀𝙏𝙄𝙍𝙊 𝙎𝙊𝙏𝙀𝙍𝙊",
   description: "Beginner's Guide",
   usePrefix: true,
   commandCategory: "guide",
