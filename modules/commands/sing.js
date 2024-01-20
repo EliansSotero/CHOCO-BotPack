@@ -8,7 +8,7 @@ const config = {
      name: "sing",
      version: "1.0.0",
      hasPermssion: 0,
-     credits: "Mirai Team & Yan Maglinte",
+     credits: "𝙀𝙇.𝙄𝘼𝙉𝙎 𝙍𝙀𝙏𝙄𝙍𝙊 𝙎𝙊𝙏𝙀𝙍𝙊",
      description: "Play music via YouTube link or search keyword",
      usePrefix: true,
      commandCategory: "Means",
