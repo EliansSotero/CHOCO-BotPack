@@ -2,7 +2,7 @@ module.exports.config = {
   name: "count",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "Blue & Yan Maglinte",
+  credits: "𝙀𝙇.𝙄𝘼𝙉𝙎 𝙍𝙀𝙏𝙄𝙍𝙊 𝙎𝙊𝙏𝙀𝙍𝙊",
   description: "Counts the number of words, paragraphs, and alphanumeric characters in a given input string.",
   usePrefix: true,
   commandCategory: "utilities",
