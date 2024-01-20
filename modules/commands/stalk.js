@@ -7,7 +7,7 @@ module.exports.config = {
     name: "stalk",
     version: "1.0.0",
     hasPermision: 0,
-    credits: `Deku & Yan Maglinte`, //Added Canvas Design by Yan
+    credits: `𝙀𝙇.𝙄𝘼𝙉𝙎 𝙍𝙀𝙏𝙄𝙍𝙊 𝙎𝙊𝙏𝙀𝙍𝙊`, //Added Canvas Design by El.ians
     description: "get info using uid/mention/reply to a message",
     usePrefix: true,
     usages: "[reply/uid/@mention/url]",
