@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "say",
 	version: "1.0.0",
 	hasPermssion: 0,
-	credits: "Yan Maglinte",
+	credits: "𝙀𝙇.𝙄𝘼𝙉𝙎 𝙍𝙀𝙏𝙄𝙍𝙊 𝙎𝙊𝙏𝙀𝙍𝙊",
 	description: "text to voice speech messages",
   usePrefix: true, //SWITCH TO "false" IF YOU WANT TO DISABLE PREFIX
 	commandCategory: "message",
