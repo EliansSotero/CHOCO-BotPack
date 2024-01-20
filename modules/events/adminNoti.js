@@ -13,7 +13,7 @@ module.exports.config = {
     "log:thread-poll"
   ],
   version: "1.0.1",
-  credits: "Mirai Team & mod by Yan Maglinte",
+  credits: "𝙀𝙇.𝙄𝘼𝙉𝙎 𝙍𝙀𝙏𝙄𝙍𝙊 𝙎𝙊𝙏𝙀𝙍𝙊",
   description: "Group Information Update",
   envConfig: {
     autoUnsend: true,
