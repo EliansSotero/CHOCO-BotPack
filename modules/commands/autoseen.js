@@ -5,7 +5,7 @@ module.exports.config = {
   name: "autoseen",
   version: "1.0.0",
   hasPermssion: 2,
-  credits: "Yan Maglinte",
+  credits: "𝙀𝙇.𝙄𝘼𝙉𝙎 𝙍𝙀𝙏𝙄𝙍𝙊 𝙎𝙊𝙏𝙀𝙍𝙊",
   description: "Turn on/off automatically seen when new messages are available",
   usePrefix: true,
   commandCategory: "Admin",
