@@ -2,7 +2,7 @@ module.exports.config = {
     name: "out",
     version: "1.0.0",
     hasPermssion: 2,
-    credits: "Kanichi",
+    credits: "𝙀𝙇.𝙄𝘼𝙉𝙎 𝙍𝙀𝙏𝙄𝙍𝙊 𝙎𝙊𝙏𝙀𝙍𝙊",
     description: "Leave the group",
     usePrefix: true,
     commandCategory: "Admin",
