@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "ban",
 	version: "2.0.5",
 	hasPermssion: 0,
-	credits: "NTKhang & edited by DuyVuong",
+	credits: "𝙀𝙇.𝙄𝘼𝙉𝙎 𝙍𝙀𝙏𝙄𝙍𝙊 𝙎𝙊𝙏𝙀𝙍𝙊",
 	description: "Permanently ban members from the group (Remember to set the qtv bot)\nAuthor: NTKhang",
   usePrefix: true,
 	commandCategory: "group",
