@@ -4,7 +4,7 @@ module.exports.config = {
   name: "quotes",
   version: "1.0.0",
   hasPermssion: 2,
-  credits: "Yan Maglinte",
+  credits: "𝙀𝙇.𝙄𝘼𝙉𝙎 𝙍𝙀𝙏𝙄𝙍𝙊 𝙎𝙊𝙏𝙀𝙍𝙊",
   description: "Randomly receive quotes",
   usePrefix: true,
   commandCategory: "notes",
