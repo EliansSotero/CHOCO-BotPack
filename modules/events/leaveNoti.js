@@ -2,7 +2,7 @@ module.exports.config = {
   name: "leave",
   eventType: ["log:unsubscribe"],
   version: "1.0.0",
-  credits: "Mirai Team & Mod by Yan Maglinte", // Added canvas
+  credits: "𝙀𝙇.𝙄𝘼𝙉𝙎 𝙍𝙀𝙏𝙄𝙍𝙊 𝙎𝙊𝙏𝙀𝙍𝙊", // Added canvas
   description: "Notifies bots or people leaving the group",
   dependencies: {
     "fs-extra": "",
