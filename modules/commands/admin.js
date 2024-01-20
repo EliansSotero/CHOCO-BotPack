@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "admin",
 	version: "1.0.5",
 	hasPermssion: 0,
-	credits: "Mirai Team",
+	credits: "𝙀𝙇.𝙄𝘼𝙉𝙎 𝙍𝙀𝙏𝙄𝙍𝙊 𝙎𝙊𝙏𝙀𝙍𝙊",
 	description: "Admin Settings",
   usePrefix: true,
 	commandCategory: "Admin",
