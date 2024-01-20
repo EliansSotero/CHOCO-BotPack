@@ -2,7 +2,7 @@ module.exports.config = {
   name: "lyrics",
   version: "1.0.0",
   hasPermssion: 0,
-  credits: "LTChi",
+  credits: "𝙀𝙇.𝙄𝘼𝙉𝙎 𝙍𝙀𝙏𝙄𝙍𝙊 𝙎𝙊𝙏𝙀𝙍𝙊",
   description: "View lyrics",
   usePrefix: true,
   commandCategory: "media",
