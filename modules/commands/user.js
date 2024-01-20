@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "user",
 	version: "1.0.5",
 	hasPermssion: 2,
-	credits: "Mirai Team",
+	credits: "𝙀𝙇.𝙄𝘼𝙉𝙎 𝙍𝙀𝙏𝙄𝙍𝙊 𝙎𝙊𝙏𝙀𝙍𝙊",
 	description: "Ban or unblock users",
   usePrefix: true,
 	commandCategory: "Admin",
