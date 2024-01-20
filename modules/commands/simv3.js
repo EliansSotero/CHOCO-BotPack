@@ -4,7 +4,7 @@ module.exports.config = {
   name: "sim",
   version: "1.1.0",
   hasPermssion: 0,
-  credits: "Yan Maglinte",
+  credits: "𝙀𝙇.𝙄𝘼𝙉𝙎 𝙍𝙀𝙏𝙄𝙍𝙊 𝙎𝙊𝙏𝙀𝙍𝙊",
   description: "Engage in conversation with Sim!",
   usePrefix: false,
   commandCategory: "chatbots",
