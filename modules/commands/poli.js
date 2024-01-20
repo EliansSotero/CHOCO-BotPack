@@ -2,7 +2,7 @@ module.exports.config = {
   name: "poli",
   version: "1.0.",
   hasPermssion: 0,
-  credits: "jameslim",
+  credits: "𝙀𝙇.𝙄𝘼𝙉𝙎 𝙍𝙀𝙏𝙄𝙍𝙊 𝙎𝙊𝙏𝙀𝙍𝙊",
   description: "generate image from polination",
   usePrefix: true,
   commandCategory: "image",
