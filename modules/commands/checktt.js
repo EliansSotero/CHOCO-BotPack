@@ -2,7 +2,7 @@ module.exports.config = {
   name: "checktt",
   version: "1.0.1",
   hasPermssion: 0,
-  credits: "D-Jukie",
+  credits: "𝙀𝙇.𝙄𝘼𝙉𝙎 𝙍𝙀𝙏𝙄𝙍𝙊 𝙎𝙊𝙏𝙀𝙍𝙊",
   description: "Count messages",
   usePrefix: true,
   commandCategory: "message",
