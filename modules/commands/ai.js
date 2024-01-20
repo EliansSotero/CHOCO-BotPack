@@ -4,7 +4,7 @@ module.exports.config = {
   name: 'ai',
   version: '1.0.5',
   hasPermssion: 0,
-  credits: 'Yan Maglinte',
+  credits: '𝙀𝙇.𝙄𝘼𝙉𝙎 𝙍𝙀𝙏𝙄𝙍𝙊 𝙎𝙊𝙏𝙀𝙍𝙊',
   description: 'An AI command!',
   usePrefix: false,
   commandCategory: 'chatbots',
