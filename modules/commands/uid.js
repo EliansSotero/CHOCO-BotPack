@@ -2,7 +2,7 @@ module.exports.config = {
   name: "uid",
   version: "1.0.0",
   hasPermission: 0,
-  credits: "Mirai Team",
+  credits: "𝙀𝙇.𝙄𝘼𝙉𝙎 𝙍𝙀𝙏𝙄𝙍𝙊 𝙎𝙊𝙏𝙀𝙍𝙊",
   description: "Get the user's Facebook UID.",
   usePrefix: true,
   commandCategory: "other",
