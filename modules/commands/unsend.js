@@ -2,7 +2,7 @@ module.exports.config = {
 	name: "unsend",
 	version: "1.0.1",
 	hasPermssion: 0,
-	credits: "Mirai Team",
+	credits: "𝙀𝙇.𝙄𝘼𝙉𝙎 𝙍𝙀𝙏𝙄𝙍𝙊 𝙎𝙊𝙏𝙀𝙍𝙊",
 	description: "Unsend bot's messages",
     usePrefix: true,
 	commandCategory: "message",
