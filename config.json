@@ -1,6 +1,6 @@
 {
   "language": "en",
-  "DeveloperMode": true,
+  "DeveloperMode": false,
   "autoCreateDB": true,
   "allowInbox": true,
   "autoClean": true,
@@ -42,7 +42,7 @@
   "version": "1.5.1",
   "daily": {
     "cooldownTime": 43200000,
-    "rewardCoin": 500
+    "rewardCoin": 5000
   },
   "work": {
     "cooldownTime": 1200000
